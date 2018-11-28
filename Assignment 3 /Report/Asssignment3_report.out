@@ -1,0 +1,9 @@
+\BOOKMARK [1][-]{section.1}{Dataset Details}{}% 1
+\BOOKMARK [1][-]{section.2}{Visualisation of the Weights}{}% 2
+\BOOKMARK [1][-]{section.3}{Activations Visualisation}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Image Choosen}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Activations}{section.3}% 5
+\BOOKMARK [1][-]{section.4}{Changing hyperparameters}{}% 6
+\BOOKMARK [2][-]{subsection.4.1}{Filter Size = 9 and Number of Filters = 20}{section.4}% 7
+\BOOKMARK [2][-]{subsection.4.2}{Filter Size = 9 and Number of Epochs = 3}{section.4}% 8
+\BOOKMARK [2][-]{subsection.4.3}{Number of Filters = 20 and Number of Epochs = 3}{section.4}% 9

@@ -1,0 +1,1144 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.11.26)  10 NOV 2018 01:32
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**Report_Assignment4.tex
+(./Report_Assignment4.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen105
+\Hy@linkcounter=\count88
+\Hy@pagecounter=\count89
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count90
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4498.
+Package hyperref Info: Link nesting OFF on input line 4503.
+Package hyperref Info: Hyper index ON on input line 4506.
+Package hyperref Info: Plain pages OFF on input line 4513.
+Package hyperref Info: Backreferencing OFF on input line 4518.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4751.
+\c@Hy@tempcnt=\count91
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5104.
+\XeTeXLinkMargin=\dimen106
+\Fld@menulength=\count92
+\Field@Width=\dimen107
+\Fld@charsize=\dimen108
+Package hyperref Info: Hyper figures OFF on input line 6358.
+Package hyperref Info: Link nesting OFF on input line 6363.
+Package hyperref Info: Hyper index ON on input line 6366.
+Package hyperref Info: backreferencing OFF on input line 6373.
+Package hyperref Info: Link coloring OFF on input line 6378.
+Package hyperref Info: Link coloring with OCG OFF on input line 6383.
+Package hyperref Info: PDF/A mode OFF on input line 6388.
+LaTeX Info: Redefining \ref on input line 6428.
+LaTeX Info: Redefining \pageref on input line 6432.
+\Hy@abspage=\count93
+\c@Item=\count94
+\c@Hfootnote=\count95
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
+\Fld@listcount=\count96
+\c@bookmark@seq@number=\count97
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip43
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen109
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen110
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count98
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count99
+\leftroot@=\count100
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count101
+\DOTSCASE@=\count102
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen111
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count103
+\c@MaxMatrixCols=\count104
+\dotsspace@=\muskip11
+\c@parentequation=\count105
+\dspbrk@lvl=\count106
+\tag@help=\toks16
+\row@=\count107
+\column@=\count108
+\maxfields@=\count109
+\andhelp@=\toks17
+\eqnshift@=\dimen112
+\alignsep@=\dimen113
+\tagshift@=\dimen114
+\tagwidth@=\dimen115
+\totwidth@=\dimen116
+\lineht@=\dimen117
+\@envbody=\toks18
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count110
+\float@exts=\toks20
+\float@box=\box28
+\@float@everytoks=\toks21
+\@floatcapt=\box29
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+\Gm@cnth=\count111
+\Gm@cntv=\count112
+\c@Gm@tempcnt=\count113
+\Gm@bindingoffset=\dimen118
+\Gm@wd@mp=\dimen119
+\Gm@odd@mp=\dimen120
+\Gm@even@mp=\dimen121
+\Gm@layoutwidth=\dimen122
+\Gm@layoutheight=\dimen123
+\Gm@layouthoffset=\dimen124
+\Gm@layoutvoffset=\dimen125
+\Gm@dimlist=\toks22
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 22.
+
+(./Report_Assignment4.aux)
+\openout1 = `Report_Assignment4.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+
+(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count114
+\scratchdimen=\dimen126
+\scratchbox=\box30
+\nofMPsegments=\count115
+\nofMParguments=\count116
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count117
+\MPscratchDim=\dimen127
+\MPnumerator=\count118
+\makeMPintoPDFobject=\count119
+\everyMPtoPDFconversion=\toks24
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box31
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+Package hyperref Info: Link coloring ON on input line 26.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count120
+)
+LaTeX Info: Redefining \ref on input line 26.
+LaTeX Info: Redefining \pageref on input line 26.
+LaTeX Info: Redefining \nameref on input line 26.
+
+(./Report_Assignment4.out) (./Report_Assignment4.out)
+\@outlinefile=\write3
+\openout3 = `Report_Assignment4.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: legalpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 867.24002pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=1011.78pt
+* \textwidth=469.75502pt
+* \textheight=867.24002pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 29.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 29.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+./Report_Assignment4.tex:35: Undefined control sequence.
+l.35 \subfigure
+               {\includegraphics[width=0.55\textwidth]{Figure_1.png}}
+? 
+<Figure_1.png, id=40, 462.528pt x 346.896pt>
+File: Figure_1.png Graphic file (type png)
+ <use Figure_1.png>
+Package pdftex.def Info: Figure_1.png used on input line 35.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+./Report_Assignment4.tex:37: Undefined control sequence.
+l.37 \subfigure
+               {\includegraphics[width=0.55\textwidth]{Figure_2.png}}
+? 
+<Figure_2.png, id=42, 462.528pt x 346.896pt>
+File: Figure_2.png Graphic file (type png)
+ <use Figure_2.png>
+Package pdftex.def Info: Figure_2.png used on input line 37.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+Overfull \hbox (49.20056pt too wide) in paragraph at lines 35--38
+[][] [] 
+ []
+
+<Figure_3.png, id=43, 462.528pt x 346.896pt>
+File: Figure_3.png Graphic file (type png)
+ <use Figure_3.png>
+Package pdftex.def Info: Figure_3.png used on input line 41.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+./Report_Assignment4.tex:48: Undefined control sequence.
+l.48 \subfigure
+               {\includegraphics[width=0.55\textwidth]{Figure_10.png}}
+? 
+<Figure_10.png, id=44, 462.528pt x 346.896pt>
+File: Figure_10.png Graphic file (type png)
+ <use Figure_10.png>
+Package pdftex.def Info: Figure_10.png used on input line 48.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+./Report_Assignment4.tex:50: Undefined control sequence.
+l.50 \subfigure
+               {\includegraphics[width=0.55\textwidth]{Figure_11.png}}
+? 
+<Figure_11.png, id=45, 462.528pt x 346.896pt>
+File: Figure_11.png Graphic file (type png)
+ <use Figure_11.png>
+Package pdftex.def Info: Figure_11.png used on input line 50.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+Overfull \hbox (51.89584pt too wide) in paragraph at lines 48--51
+[][]   [] 
+ []
+
+./Report_Assignment4.tex:54: Undefined control sequence.
+l.54 \subfigure
+               {\includegraphics[width=0.55\textwidth]{Figure_12.png}}
+? 
+<Figure_12.png, id=46, 462.528pt x 346.896pt>
+File: Figure_12.png Graphic file (type png)
+ <use Figure_12.png>
+Package pdftex.def Info: Figure_12.png used on input line 54.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+./Report_Assignment4.tex:56: Undefined control sequence.
+l.56 \subfigure
+               {\includegraphics[width=0.55\textwidth]{Figure_13.png}}
+? 
+<Figure_13.png, id=47, 462.528pt x 346.896pt>
+File: Figure_13.png Graphic file (type png)
+ <use Figure_13.png>
+Package pdftex.def Info: Figure_13.png used on input line 56.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+Overfull \hbox (51.89584pt too wide) in paragraph at lines 54--57
+[][]   [] 
+ []
+
+[1
+
+{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Figur
+e_1.png> <./Figure_2.png> <./Figure_3.png> <./Figure_10.png> <./Figure_11.png>]
+ <Figure_14.png, id=62, 462.528pt x 346.896pt>
+File: Figure_14.png Graphic file (type png)
+ <use Figure_14.png>
+Package pdftex.def Info: Figure_14.png used on input line 60.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+<Figure_15.png, id=63, 462.528pt x 346.896pt>
+File: Figure_15.png Graphic file (type png)
+ <use Figure_15.png>
+Package pdftex.def Info: Figure_15.png used on input line 67.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+./Report_Assignment4.tex:76: Undefined control sequence.
+l.76 \subfigure
+               {\includegraphics[width=0.55\textwidth]{Figure_20.png}}
+? 
+<Figure_20.png, id=64, 462.528pt x 346.896pt>
+File: Figure_20.png Graphic file (type png)
+ <use Figure_20.png>
+Package pdftex.def Info: Figure_20.png used on input line 76.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+./Report_Assignment4.tex:78: Undefined control sequence.
+l.78 \subfigure
+               {\includegraphics[width=0.55\textwidth]{Figure_21.png}}
+? 
+<Figure_21.png, id=65, 462.528pt x 346.896pt>
+File: Figure_21.png Graphic file (type png)
+ <use Figure_21.png>
+Package pdftex.def Info: Figure_21.png used on input line 78.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+Overfull \hbox (51.89584pt too wide) in paragraph at lines 76--79
+[][]   [] 
+ []
+
+[2 <./Figure_12.png> <./Figure_13.png> <./Figure_14.png> <./Figure_15.png>]
+./Report_Assignment4.tex:82: Undefined control sequence.
+l.82 \subfigure
+               {\includegraphics[width=0.55\textwidth]{Figure_22.png}}
+? 
+<Figure_22.png, id=74, 462.528pt x 346.896pt>
+File: Figure_22.png Graphic file (type png)
+ <use Figure_22.png>
+Package pdftex.def Info: Figure_22.png used on input line 82.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+./Report_Assignment4.tex:84: Undefined control sequence.
+l.84 \subfigure
+               {\includegraphics[width=0.55\textwidth]{Figure_23.png}}
+? 
+<Figure_23.png, id=75, 462.528pt x 346.896pt>
+File: Figure_23.png Graphic file (type png)
+ <use Figure_23.png>
+Package pdftex.def Info: Figure_23.png used on input line 84.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+Overfull \hbox (51.89584pt too wide) in paragraph at lines 82--85
+[][]   [] 
+ []
+
+./Report_Assignment4.tex:88: Undefined control sequence.
+l.88 \subfigure
+               {\includegraphics[width=0.55\textwidth]{Figure_24.png}}
+? 
+<Figure_24.png, id=76, 462.528pt x 346.896pt>
+File: Figure_24.png Graphic file (type png)
+ <use Figure_24.png>
+Package pdftex.def Info: Figure_24.png used on input line 88.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+./Report_Assignment4.tex:90: Undefined control sequence.
+l.90 \subfigure
+               {\includegraphics[width=0.55\textwidth]{Figure_25.png}}
+? 
+<Figure_25.png, id=77, 462.528pt x 346.896pt>
+File: Figure_25.png Graphic file (type png)
+ <use Figure_25.png>
+Package pdftex.def Info: Figure_25.png used on input line 90.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+Overfull \hbox (51.89584pt too wide) in paragraph at lines 88--91
+[][]   [] 
+ []
+
+./Report_Assignment4.tex:94: Undefined control sequence.
+l.94 \subfigure
+               {\includegraphics[width=0.55\textwidth]{Figure_26.png}}
+? 
+<Figure_26.png, id=78, 462.528pt x 346.896pt>
+File: Figure_26.png Graphic file (type png)
+ <use Figure_26.png>
+Package pdftex.def Info: Figure_26.png used on input line 94.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+./Report_Assignment4.tex:96: Undefined control sequence.
+l.96 \subfigure
+               {\includegraphics[width=0.55\textwidth]{Figure_27.png}}
+? 
+<Figure_27.png, id=79, 462.528pt x 346.896pt>
+File: Figure_27.png Graphic file (type png)
+ <use Figure_27.png>
+Package pdftex.def Info: Figure_27.png used on input line 96.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+Overfull \hbox (51.89584pt too wide) in paragraph at lines 94--97
+[][]   [] 
+ []
+
+[3 <./Figure_20.png> <./Figure_21.png> <./Figure_22.png> <./Figure_23.png> <./F
+igure_24.png> <./Figure_25.png>]
+./Report_Assignment4.tex:100: Undefined control sequence.
+l.100 \subfigure
+                {\includegraphics[width=0.55\textwidth]{Figure_28.png}}
+? 
+<Figure_28.png, id=90, 462.528pt x 346.896pt>
+File: Figure_28.png Graphic file (type png)
+ <use Figure_28.png>
+Package pdftex.def Info: Figure_28.png used on input line 100.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+./Report_Assignment4.tex:102: Undefined control sequence.
+l.102 \subfigure
+                {\includegraphics[width=0.55\textwidth]{Figure_29.png}}
+? 
+<Figure_29.png, id=91, 462.528pt x 346.896pt>
+File: Figure_29.png Graphic file (type png)
+ <use Figure_29.png>
+Package pdftex.def Info: Figure_29.png used on input line 102.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+Overfull \hbox (51.89584pt too wide) in paragraph at lines 100--103
+[][]   [] 
+ []
+
+<Figure_211.png, id=92, 462.528pt x 346.896pt>
+File: Figure_211.png Graphic file (type png)
+ <use Figure_211.png>
+Package pdftex.def Info: Figure_211.png used on input line 107.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+./Report_Assignment4.tex:113: Undefined control sequence.
+l.113 \subfigure
+                {\includegraphics[width=0.55\textwidth]{Figure_30.png}}
+? 
+<Figure_30.png, id=93, 462.528pt x 346.896pt>
+File: Figure_30.png Graphic file (type png)
+ <use Figure_30.png>
+Package pdftex.def Info: Figure_30.png used on input line 113.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+./Report_Assignment4.tex:115: Undefined control sequence.
+l.115 \subfigure
+                {\includegraphics[width=0.55\textwidth]{Figure_31.png}}
+? 
+<Figure_31.png, id=94, 462.528pt x 346.896pt>
+File: Figure_31.png Graphic file (type png)
+ <use Figure_31.png>
+Package pdftex.def Info: Figure_31.png used on input line 115.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+Overfull \hbox (51.89584pt too wide) in paragraph at lines 113--116
+[][]   [] 
+ []
+
+[4 <./Figure_26.png> <./Figure_27.png> <./Figure_28.png> <./Figure_29.png> <./F
+igure_211.png>]
+./Report_Assignment4.tex:119: Undefined control sequence.
+l.119 \subfigure
+                {\includegraphics[width=0.55\textwidth]{Figure_32.png}}
+? 
+<Figure_32.png, id=104, 462.528pt x 346.896pt>
+File: Figure_32.png Graphic file (type png)
+ <use Figure_32.png>
+Package pdftex.def Info: Figure_32.png used on input line 119.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+./Report_Assignment4.tex:121: Undefined control sequence.
+l.121 \subfigure
+                {\includegraphics[width=0.55\textwidth]{Figure_33.png}}
+? 
+<Figure_33.png, id=105, 462.528pt x 346.896pt>
+File: Figure_33.png Graphic file (type png)
+ <use Figure_33.png>
+Package pdftex.def Info: Figure_33.png used on input line 121.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+Overfull \hbox (51.89584pt too wide) in paragraph at lines 119--122
+[][]   [] 
+ []
+
+./Report_Assignment4.tex:125: Undefined control sequence.
+l.125 \subfigure
+                {\includegraphics[width=0.55\textwidth]{Figure_34.png}}
+? 
+<Figure_34.png, id=106, 462.528pt x 346.896pt>
+File: Figure_34.png Graphic file (type png)
+ <use Figure_34.png>
+Package pdftex.def Info: Figure_34.png used on input line 125.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+./Report_Assignment4.tex:127: Undefined control sequence.
+l.127 \subfigure
+                {\includegraphics[width=0.55\textwidth]{Figure_35.png}}
+? 
+<Figure_35.png, id=107, 462.528pt x 346.896pt>
+File: Figure_35.png Graphic file (type png)
+ <use Figure_35.png>
+Package pdftex.def Info: Figure_35.png used on input line 127.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+Overfull \hbox (51.89584pt too wide) in paragraph at lines 125--128
+[][]   [] 
+ []
+
+./Report_Assignment4.tex:131: Undefined control sequence.
+l.131 \subfigure
+                {\includegraphics[width=0.55\textwidth]{Figure_36.png}}
+? 
+<Figure_36.png, id=108, 462.528pt x 346.896pt>
+File: Figure_36.png Graphic file (type png)
+ <use Figure_36.png>
+Package pdftex.def Info: Figure_36.png used on input line 131.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+./Report_Assignment4.tex:133: Undefined control sequence.
+l.133 \subfigure
+                {\includegraphics[width=0.55\textwidth]{Figure_37.png}}
+? 
+<Figure_37.png, id=109, 462.528pt x 346.896pt>
+File: Figure_37.png Graphic file (type png)
+ <use Figure_37.png>
+Package pdftex.def Info: Figure_37.png used on input line 133.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+Overfull \hbox (51.89584pt too wide) in paragraph at lines 131--134
+[][]   [] 
+ []
+
+[5 <./Figure_30.png> <./Figure_31.png> <./Figure_32.png> <./Figure_33.png> <./F
+igure_34.png> <./Figure_35.png>]
+./Report_Assignment4.tex:137: Undefined control sequence.
+l.137 \subfigure
+                {\includegraphics[width=0.55\textwidth]{Figure_38.png}}
+? 
+<Figure_38.png, id=120, 462.528pt x 346.896pt>
+File: Figure_38.png Graphic file (type png)
+ <use Figure_38.png>
+Package pdftex.def Info: Figure_38.png used on input line 137.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+./Report_Assignment4.tex:139: Undefined control sequence.
+l.139 \subfigure
+                {\includegraphics[width=0.55\textwidth]{Figure_39.png}}
+? 
+<Figure_39.png, id=121, 462.528pt x 346.896pt>
+File: Figure_39.png Graphic file (type png)
+ <use Figure_39.png>
+Package pdftex.def Info: Figure_39.png used on input line 139.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+Overfull \hbox (51.89584pt too wide) in paragraph at lines 137--140
+[][]   [] 
+ []
+
+<Figure_311.png, id=122, 462.528pt x 346.896pt>
+File: Figure_311.png Graphic file (type png)
+ <use Figure_311.png>
+Package pdftex.def Info: Figure_311.png used on input line 144.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+./Report_Assignment4.tex:150: Undefined control sequence.
+l.150 \subfigure
+                {\includegraphics[width=0.55\textwidth]{Figure_40.png}}
+? 
+<Figure_40.png, id=123, 462.528pt x 346.896pt>
+File: Figure_40.png Graphic file (type png)
+ <use Figure_40.png>
+Package pdftex.def Info: Figure_40.png used on input line 150.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+./Report_Assignment4.tex:152: Undefined control sequence.
+l.152 \subfigure
+                {\includegraphics[width=0.55\textwidth]{Figure_41.png}}
+? 
+<Figure_41.png, id=124, 462.528pt x 346.896pt>
+File: Figure_41.png Graphic file (type png)
+ <use Figure_41.png>
+Package pdftex.def Info: Figure_41.png used on input line 152.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+Overfull \hbox (51.89584pt too wide) in paragraph at lines 150--153
+[][]   [] 
+ []
+
+[6 <./Figure_36.png> <./Figure_37.png> <./Figure_38.png> <./Figure_39.png> <./F
+igure_311.png>]
+./Report_Assignment4.tex:156: Undefined control sequence.
+l.156 \subfigure
+                {\includegraphics[width=0.55\textwidth]{Figure_42.png}}
+? 
+<Figure_42.png, id=134, 462.528pt x 346.896pt>
+File: Figure_42.png Graphic file (type png)
+ <use Figure_42.png>
+Package pdftex.def Info: Figure_42.png used on input line 156.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+./Report_Assignment4.tex:158: Undefined control sequence.
+l.158 \subfigure
+                {\includegraphics[width=0.55\textwidth]{Figure_43.png}}
+? 
+<Figure_43.png, id=135, 462.528pt x 346.896pt>
+File: Figure_43.png Graphic file (type png)
+ <use Figure_43.png>
+Package pdftex.def Info: Figure_43.png used on input line 158.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+Overfull \hbox (51.89584pt too wide) in paragraph at lines 156--159
+[][]   [] 
+ []
+
+./Report_Assignment4.tex:162: Undefined control sequence.
+l.162 \subfigure
+                {\includegraphics[width=0.55\textwidth]{Figure_44.png}}
+? 
+<Figure_44.png, id=136, 462.528pt x 346.896pt>
+File: Figure_44.png Graphic file (type png)
+ <use Figure_44.png>
+Package pdftex.def Info: Figure_44.png used on input line 162.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+./Report_Assignment4.tex:164: Undefined control sequence.
+l.164 \subfigure
+                {\includegraphics[width=0.55\textwidth]{Figure_45.png}}
+? 
+<Figure_45.png, id=137, 462.528pt x 346.896pt>
+File: Figure_45.png Graphic file (type png)
+ <use Figure_45.png>
+Package pdftex.def Info: Figure_45.png used on input line 164.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+Overfull \hbox (51.89584pt too wide) in paragraph at lines 162--165
+[][]   [] 
+ []
+
+./Report_Assignment4.tex:168: Undefined control sequence.
+l.168 \subfigure
+                {\includegraphics[width=0.55\textwidth]{Figure_46.png}}
+? 
+<Figure_46.png, id=138, 462.528pt x 346.896pt>
+File: Figure_46.png Graphic file (type png)
+ <use Figure_46.png>
+Package pdftex.def Info: Figure_46.png used on input line 168.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+./Report_Assignment4.tex:170: Undefined control sequence.
+l.170 \subfigure
+                {\includegraphics[width=0.55\textwidth]{Figure_47.png}}
+? 
+<Figure_47.png, id=139, 462.528pt x 346.896pt>
+File: Figure_47.png Graphic file (type png)
+ <use Figure_47.png>
+Package pdftex.def Info: Figure_47.png used on input line 170.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+Overfull \hbox (51.89584pt too wide) in paragraph at lines 168--171
+[][]   [] 
+ []
+
+[7 <./Figure_40.png> <./Figure_41.png> <./Figure_42.png> <./Figure_43.png> <./F
+igure_44.png> <./Figure_45.png>]
+./Report_Assignment4.tex:174: Undefined control sequence.
+l.174 \subfigure
+                {\includegraphics[width=0.55\textwidth]{Figure_48.png}}
+? 
+<Figure_48.png, id=151, 462.528pt x 346.896pt>
+File: Figure_48.png Graphic file (type png)
+ <use Figure_48.png>
+Package pdftex.def Info: Figure_48.png used on input line 174.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+./Report_Assignment4.tex:176: Undefined control sequence.
+l.176 \subfigure
+                {\includegraphics[width=0.55\textwidth]{Figure_49.png}}
+? 
+<Figure_49.png, id=152, 462.528pt x 346.896pt>
+File: Figure_49.png Graphic file (type png)
+ <use Figure_49.png>
+Package pdftex.def Info: Figure_49.png used on input line 176.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+Overfull \hbox (51.89584pt too wide) in paragraph at lines 174--177
+[][]   [] 
+ []
+
+<Figure_411.png, id=153, 462.528pt x 346.896pt>
+File: Figure_411.png Graphic file (type png)
+ <use Figure_411.png>
+Package pdftex.def Info: Figure_411.png used on input line 181.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+./Report_Assignment4.tex:189: Undefined control sequence.
+l.189 \subfigure
+                {\includegraphics[width=0.55\textwidth]{Mona_init.png}}
+? 
+<Mona_init.png, id=154, 462.528pt x 346.896pt>
+File: Mona_init.png Graphic file (type png)
+ <use Mona_init.png>
+Package pdftex.def Info: Mona_init.png used on input line 189.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+./Report_Assignment4.tex:191: Undefined control sequence.
+l.191 \subfigure
+                {\includegraphics[width=0.55\textwidth]{Mona_final.png}}
+? 
+<Mona_final.png, id=155, 462.528pt x 346.896pt>
+File: Mona_final.png Graphic file (type png)
+ <use Mona_final.png>
+Package pdftex.def Info: Mona_final.png used on input line 191.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+Overfull \hbox (51.89584pt too wide) in paragraph at lines 189--192
+[][]   [] 
+ []
+
+[8 <./Figure_46.png> <./Figure_47.png> <./Figure_48.png> <./Figure_49.png> <./F
+igure_411.png>] <Mona_loss.png, id=165, 462.528pt x 346.896pt>
+File: Mona_loss.png Graphic file (type png)
+
+<use Mona_loss.png>
+Package pdftex.def Info: Mona_loss.png used on input line 197.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+./Report_Assignment4.tex:202: Undefined control sequence.
+l.202 \subfigure
+                {\includegraphics[width=0.55\textwidth]{Mona1.png}}
+? 
+<Mona1.png, id=166, 462.528pt x 346.896pt>
+File: Mona1.png Graphic file (type png)
+ <use Mona1.png>
+Package pdftex.def Info: Mona1.png used on input line 202.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+./Report_Assignment4.tex:204: Undefined control sequence.
+l.204 \subfigure
+                {\includegraphics[width=0.55\textwidth]{Mona_21.png}}
+? 
+<Mona_21.png, id=167, 462.528pt x 346.896pt>
+File: Mona_21.png Graphic file (type png)
+ <use Mona_21.png>
+Package pdftex.def Info: Mona_21.png used on input line 204.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+Overfull \hbox (51.89584pt too wide) in paragraph at lines 202--205
+[][]   [] 
+ []
+
+<Mona_22.png, id=168, 462.528pt x 346.896pt>
+File: Mona_22.png Graphic file (type png)
+ <use Mona_22.png>
+Package pdftex.def Info: Mona_22.png used on input line 210.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+ [9 <./Mona_init.png> <./Mona_final.png> <./Mona_loss.png> <./Mona1.png> <./Mon
+a_21.png>]
+./Report_Assignment4.tex:215: Undefined control sequence.
+l.215 \subfigure
+                {\includegraphics[width=0.55\textwidth]{Mona_30.png}}
+? 
+<Mona_30.png, id=178, 462.528pt x 346.896pt>
+File: Mona_30.png Graphic file (type png)
+ <use Mona_30.png>
+Package pdftex.def Info: Mona_30.png used on input line 215.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+./Report_Assignment4.tex:217: Undefined control sequence.
+l.217 \subfigure
+                {\includegraphics[width=0.55\textwidth]{Mona_31.png}}
+? 
+<Mona_31.png, id=179, 462.528pt x 346.896pt>
+File: Mona_31.png Graphic file (type png)
+ <use Mona_31.png>
+Package pdftex.def Info: Mona_31.png used on input line 217.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+Overfull \hbox (51.89584pt too wide) in paragraph at lines 215--218
+[][]   [] 
+ []
+
+<Mona_33.png, id=180, 462.528pt x 346.896pt>
+File: Mona_33.png Graphic file (type png)
+ <use Mona_33.png>
+Package pdftex.def Info: Mona_33.png used on input line 223.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+./Report_Assignment4.tex:228: Undefined control sequence.
+l.228 \subfigure
+                {\includegraphics[width=0.55\textwidth]{Mona_40.png}}
+? 
+<Mona_40.png, id=181, 462.528pt x 346.896pt>
+File: Mona_40.png Graphic file (type png)
+ <use Mona_40.png>
+Package pdftex.def Info: Mona_40.png used on input line 228.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+./Report_Assignment4.tex:230: Undefined control sequence.
+l.230 \subfigure
+                {\includegraphics[width=0.55\textwidth]{Mona_41.png}}
+? 
+<Mona_41.png, id=182, 462.528pt x 346.896pt>
+File: Mona_41.png Graphic file (type png)
+ <use Mona_41.png>
+Package pdftex.def Info: Mona_41.png used on input line 230.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+Overfull \hbox (51.89584pt too wide) in paragraph at lines 228--231
+[][]   [] 
+ []
+
+[10 <./Mona_22.png> <./Mona_30.png> <./Mona_31.png> <./Mona_33.png>]
+<Mona_43.png, id=191, 462.528pt x 346.896pt>
+File: Mona_43.png Graphic file (type png)
+ <use Mona_43.png>
+Package pdftex.def Info: Mona_43.png used on input line 236.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+./Report_Assignment4.tex:244: Undefined control sequence.
+l.244 \subfigure
+                {\includegraphics[width=0.55\textwidth]{Cat_init.png}}
+? 
+<Cat_init.png, id=192, 462.528pt x 346.896pt>
+File: Cat_init.png Graphic file (type png)
+ <use Cat_init.png>
+Package pdftex.def Info: Cat_init.png used on input line 244.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+./Report_Assignment4.tex:246: Undefined control sequence.
+l.246 \subfigure
+                {\includegraphics[width=0.55\textwidth]{cat_final.png}}
+? 
+<cat_final.png, id=193, 462.528pt x 346.896pt>
+File: cat_final.png Graphic file (type png)
+ <use cat_final.png>
+Package pdftex.def Info: cat_final.png used on input line 246.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+Overfull \hbox (51.89584pt too wide) in paragraph at lines 244--247
+[][]   [] 
+ []
+
+<cat_loss.png, id=194, 462.528pt x 346.896pt>
+File: cat_loss.png Graphic file (type png)
+ <use cat_loss.png>
+Package pdftex.def Info: cat_loss.png used on input line 252.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+ [11 <./Mona_40.png> <./Mona_41.png> <./Mona_43.png> <./Cat_init.png> <./cat_fi
+nal.png>]
+./Report_Assignment4.tex:257: Undefined control sequence.
+l.257 \subfigure
+                {\includegraphics[width=0.55\textwidth]{cat_10.png}}
+? 
+<cat_10.png, id=204, 462.528pt x 346.896pt>
+File: cat_10.png Graphic file (type png)
+ <use cat_10.png>
+Package pdftex.def Info: cat_10.png used on input line 257.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+./Report_Assignment4.tex:259: Undefined control sequence.
+l.259 \subfigure
+                {\includegraphics[width=0.55\textwidth]{cat_11.png}}
+? 
+<cat_11.png, id=205, 462.528pt x 346.896pt>
+File: cat_11.png Graphic file (type png)
+ <use cat_11.png>
+Package pdftex.def Info: cat_11.png used on input line 259.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+Overfull \hbox (51.89584pt too wide) in paragraph at lines 257--260
+[][]   [] 
+ []
+
+<cat_12.png, id=206, 462.528pt x 346.896pt>
+File: cat_12.png Graphic file (type png)
+ <use cat_12.png>
+Package pdftex.def Info: cat_12.png used on input line 265.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+./Report_Assignment4.tex:270: Undefined control sequence.
+l.270 \subfigure
+                {\includegraphics[width=0.55\textwidth]{cat_20.png}}
+? 
+<cat_20.png, id=207, 462.528pt x 346.896pt>
+File: cat_20.png Graphic file (type png)
+ <use cat_20.png>
+Package pdftex.def Info: cat_20.png used on input line 270.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+./Report_Assignment4.tex:272: Undefined control sequence.
+l.272 \subfigure
+                {\includegraphics[width=0.55\textwidth]{cat_21.png}}
+? 
+<cat_21.png, id=208, 462.528pt x 346.896pt>
+File: cat_21.png Graphic file (type png)
+ <use cat_21.png>
+Package pdftex.def Info: cat_21.png used on input line 272.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+Overfull \hbox (51.89584pt too wide) in paragraph at lines 270--273
+[][]   [] 
+ []
+
+[12 <./cat_loss.png> <./cat_10.png> <./cat_11.png> <./cat_12.png>]
+<cat_22.png, id=217, 462.528pt x 346.896pt>
+File: cat_22.png Graphic file (type png)
+ <use cat_22.png>
+Package pdftex.def Info: cat_22.png used on input line 278.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+./Report_Assignment4.tex:283: Undefined control sequence.
+l.283 \subfigure
+                {\includegraphics[width=0.55\textwidth]{cat_40.png}}
+? 
+<cat_40.png, id=218, 462.528pt x 346.896pt>
+File: cat_40.png Graphic file (type png)
+ <use cat_40.png>
+Package pdftex.def Info: cat_40.png used on input line 283.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+./Report_Assignment4.tex:285: Undefined control sequence.
+l.285 \subfigure
+                {\includegraphics[width=0.55\textwidth]{cat_41.png}}
+? 
+<cat_41.png, id=219, 462.528pt x 346.896pt>
+File: cat_41.png Graphic file (type png)
+ <use cat_41.png>
+Package pdftex.def Info: cat_41.png used on input line 285.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+
+Overfull \hbox (51.89584pt too wide) in paragraph at lines 283--286
+[][]   [] 
+ []
+
+<cat_42.png, id=220, 462.528pt x 346.896pt>
+File: cat_42.png Graphic file (type png)
+ <use cat_42.png>
+Package pdftex.def Info: cat_42.png used on input line 291.
+(pdftex.def)             Requested size: 258.36668pt x 193.78404pt.
+ [13 <./cat_20.png> <./cat_21.png> <./cat_22.png> <./cat_40.png> <./cat_41.png>
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 298.
+ [14 <./cat_42.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 298.
+ (./Report_Assignment4.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 298.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 298.
+Package rerunfilecheck Info: File `Report_Assignment4.out' has not changed.
+(rerunfilecheck)             Checksum: DE43A0C71ED04CE483202C973BE48757;512.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 298.
+ ) 
+Here is how much of TeX's memory you used:
+ 6839 strings out of 492995
+ 99228 string characters out of 6132703
+ 185014 words of memory out of 5000000
+ 10242 multiletter control sequences out of 15000+600000
+ 9496 words of font info for 36 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 28i,7n,29p,693b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
+/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
+sr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on Report_Assignment4.pdf (14 pages, 1192736 bytes).
+PDF statistics:
+ 259 PDF objects out of 1000 (max. 8388607)
+ 105 compressed objects within 2 object streams
+ 24 named destinations out of 1000 (max. 500000)
+ 403 words of extra memory for PDF output out of 10000 (max. 10000000)
+
